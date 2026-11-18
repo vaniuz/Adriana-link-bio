@@ -1,0 +1,21 @@
+{
+  "name": "adriana-link-bio",
+  "version": "1.0.0",
+  "description": "Página de links (link-in-bio) da **Dra. Adriana Lima** (@dra.adrianalimadentista) — dentista, 1º Tenente do Exército e mentora de milhas. Tema escuro quente (marrom + dourado), seguindo o template do Mario Drums link-bio. Textos em **pt-BR**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaniuz/Adriana-link-bio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vaniuz/Adriana-link-bio/issues"
+  },
+  "homepage": "https://github.com/vaniuz/Adriana-link-bio#readme"
+}
