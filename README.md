@@ -5,8 +5,7 @@ Página de links (link-in-bio) da **Dra. Adriana Lima** (@dra.adrianalimadentist
 Lead originada do post: https://www.instagram.com/p/DcoTLqwR9bc/ ("Quer aprender a realizar seus sonhos de viagem apenas com seus gastos do dia a dia? Eu te ajudo!")
 
 ## Links
-- **Diagnóstico grátis (WhatsApp)** → https://wa.me/5534991660836 (mensagem pré-preenchida da mentoria)
-- **Mentoria / provas** → https://www.instagram.com/dra.adrianalimadentista/
+- Todos os cards apontam para o mesmo WhatsApp (link curto): https://tr.ee/DGE21e3CM0
 
 ## Deploy
 Site 100% estático (HTML + CSS, sem build). Na Vercel use o preset **Other**.
